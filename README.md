@@ -1,0 +1,2 @@
+# AdityaWeb
+My Static Website
